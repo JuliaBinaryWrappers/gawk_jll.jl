@@ -1,0 +1,127 @@
+[[gawk]]
+arch = "aarch64"
+git-tree-sha1 = "7bf4b17ef64289799e9fec313fd790e18336e67d"
+os = "macos"
+
+    [[gawk.download]]
+    sha256 = "39f7e924301d3cdafba04dc1745cf664bf9d5a88f0eb7787456867e2fbdb5292"
+    url = "https://github.com/JuliaBinaryWrappers/gawk_jll.jl/releases/download/gawk-v5.2.1+0/gawk.v5.2.1.aarch64-apple-darwin.tar.gz"
+[[gawk]]
+arch = "aarch64"
+git-tree-sha1 = "f479c4beca61e235b8c1b3a3d23546ea827be584"
+libc = "glibc"
+os = "linux"
+
+    [[gawk.download]]
+    sha256 = "5570285e813b19726ac958a918bf8d63ab5d2fc8a2d428ad73d2e0a7c710deab"
+    url = "https://github.com/JuliaBinaryWrappers/gawk_jll.jl/releases/download/gawk-v5.2.1+0/gawk.v5.2.1.aarch64-linux-gnu.tar.gz"
+[[gawk]]
+arch = "aarch64"
+git-tree-sha1 = "8988e9ad46fe98588b55f527035147ac6db205f9"
+libc = "musl"
+os = "linux"
+
+    [[gawk.download]]
+    sha256 = "19b7169fbd66ecd249ffa72fd06b447518d9e5d68fc2917885c0a671196e179e"
+    url = "https://github.com/JuliaBinaryWrappers/gawk_jll.jl/releases/download/gawk-v5.2.1+0/gawk.v5.2.1.aarch64-linux-musl.tar.gz"
+[[gawk]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "44be42fa1e0f2ec8663470fecb32808faaacc7d4"
+libc = "glibc"
+os = "linux"
+
+    [[gawk.download]]
+    sha256 = "d656fac71739e8bf425a8dc0b79ecef40a3387e39a09223e304ce43c54ee89b5"
+    url = "https://github.com/JuliaBinaryWrappers/gawk_jll.jl/releases/download/gawk-v5.2.1+0/gawk.v5.2.1.armv6l-linux-gnueabihf.tar.gz"
+[[gawk]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b9c8b05e4cd6dfe5b44036bf7af2dd6a6e7b18bc"
+libc = "musl"
+os = "linux"
+
+    [[gawk.download]]
+    sha256 = "52e3cf04e620764eed916da3de56603ca3dd035ad493a12b78b6dc435826b17d"
+    url = "https://github.com/JuliaBinaryWrappers/gawk_jll.jl/releases/download/gawk-v5.2.1+0/gawk.v5.2.1.armv6l-linux-musleabihf.tar.gz"
+[[gawk]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1f87ebada74ab126d2ceda100f8fc771447bcdd0"
+libc = "glibc"
+os = "linux"
+
+    [[gawk.download]]
+    sha256 = "25594c0c13e6d72706aae0ec6e01f368b777fb5cdec738e356a672d31560a096"
+    url = "https://github.com/JuliaBinaryWrappers/gawk_jll.jl/releases/download/gawk-v5.2.1+0/gawk.v5.2.1.armv7l-linux-gnueabihf.tar.gz"
+[[gawk]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ae0cff1a66a0ac4936c500f2bf208a612a11c9f5"
+libc = "musl"
+os = "linux"
+
+    [[gawk.download]]
+    sha256 = "5c4218d5c1bbf045778b3d64c4fe175aa829ba63dceefe3b2afddd2117be1d05"
+    url = "https://github.com/JuliaBinaryWrappers/gawk_jll.jl/releases/download/gawk-v5.2.1+0/gawk.v5.2.1.armv7l-linux-musleabihf.tar.gz"
+[[gawk]]
+arch = "i686"
+git-tree-sha1 = "6b73f093a52d1098cf296f3c5b58ffc843def995"
+libc = "glibc"
+os = "linux"
+
+    [[gawk.download]]
+    sha256 = "6cbaedebae1ca4607221c9f8e1fe50f9a827f53f654cb4872f3bb203dc393419"
+    url = "https://github.com/JuliaBinaryWrappers/gawk_jll.jl/releases/download/gawk-v5.2.1+0/gawk.v5.2.1.i686-linux-gnu.tar.gz"
+[[gawk]]
+arch = "i686"
+git-tree-sha1 = "bb31cff7b449fb7b13c372bfd2cba972a93abc26"
+libc = "musl"
+os = "linux"
+
+    [[gawk.download]]
+    sha256 = "3cb531819b429d7bb438d3fd37982b9d9555db0dfcf8d3aa368d593ccc9f935d"
+    url = "https://github.com/JuliaBinaryWrappers/gawk_jll.jl/releases/download/gawk-v5.2.1+0/gawk.v5.2.1.i686-linux-musl.tar.gz"
+[[gawk]]
+arch = "powerpc64le"
+git-tree-sha1 = "7584389eb5ea5f39cbd69ff65b5c84b14bd87c08"
+libc = "glibc"
+os = "linux"
+
+    [[gawk.download]]
+    sha256 = "62834014a81f8a6dca1fe3e702bab03e563922527bb0977cabcb59bc2faefdfb"
+    url = "https://github.com/JuliaBinaryWrappers/gawk_jll.jl/releases/download/gawk-v5.2.1+0/gawk.v5.2.1.powerpc64le-linux-gnu.tar.gz"
+[[gawk]]
+arch = "x86_64"
+git-tree-sha1 = "9aba652f0a331f42094f5cdb8e0a96195c72951c"
+os = "macos"
+
+    [[gawk.download]]
+    sha256 = "d6a343d0daa55bc248c36ed77f54101aee5163c38316613a101005c22ff2e7ee"
+    url = "https://github.com/JuliaBinaryWrappers/gawk_jll.jl/releases/download/gawk-v5.2.1+0/gawk.v5.2.1.x86_64-apple-darwin.tar.gz"
+[[gawk]]
+arch = "x86_64"
+git-tree-sha1 = "0c0c1c60b571006d463ae2773d21bffdb588cfcc"
+libc = "glibc"
+os = "linux"
+
+    [[gawk.download]]
+    sha256 = "c0ae8830c3b038a61cc024bbb2ce6a5114fe1c3fed53b0fff52cb604b8cb3fe9"
+    url = "https://github.com/JuliaBinaryWrappers/gawk_jll.jl/releases/download/gawk-v5.2.1+0/gawk.v5.2.1.x86_64-linux-gnu.tar.gz"
+[[gawk]]
+arch = "x86_64"
+git-tree-sha1 = "656972bfd61a279e76ea453642ce3a033eb1ed6c"
+libc = "musl"
+os = "linux"
+
+    [[gawk.download]]
+    sha256 = "27b841bbbf52740cbd03b6977673cf3418d04c413cac146f41f81d9e3738bc24"
+    url = "https://github.com/JuliaBinaryWrappers/gawk_jll.jl/releases/download/gawk-v5.2.1+0/gawk.v5.2.1.x86_64-linux-musl.tar.gz"
+[[gawk]]
+arch = "x86_64"
+git-tree-sha1 = "d0e8d83ebe6f5b3c9eff7f20fd66d41eb524e89a"
+os = "freebsd"
+
+    [[gawk.download]]
+    sha256 = "90a674cf7327db82415576f3cd3bbeec4ff7d9b251f11bf628d244ac2e7cc857"
+    url = "https://github.com/JuliaBinaryWrappers/gawk_jll.jl/releases/download/gawk-v5.2.1+0/gawk.v5.2.1.x86_64-unknown-freebsd.tar.gz"
