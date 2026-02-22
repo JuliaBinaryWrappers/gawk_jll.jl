@@ -1,6 +1,6 @@
 name = "gawk_jll"
 uuid = "054acbdd-7fbc-53f6-b51a-0fe4f8189fb8"
-version = "5.3.2+0"
+version = "5.4.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
